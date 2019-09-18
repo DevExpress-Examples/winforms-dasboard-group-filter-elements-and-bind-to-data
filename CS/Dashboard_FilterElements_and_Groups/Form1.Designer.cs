@@ -33,9 +33,6 @@
             this.dashboardViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dashboardViewer1.Location = new System.Drawing.Point(0, 0);
             this.dashboardViewer1.Name = "dashboardViewer1";
-            this.dashboardViewer1.PrintingOptions.DocumentContentOptions.FilterState = DevExpress.DashboardWin.DashboardPrintingFilterState.None;
-            this.dashboardViewer1.PrintingOptions.FontInfo.GdiCharSet = ((byte)(0));
-            this.dashboardViewer1.PrintingOptions.FontInfo.Name = null;
             this.dashboardViewer1.Size = new System.Drawing.Size(795, 427);
             this.dashboardViewer1.TabIndex = 0;
             // 
