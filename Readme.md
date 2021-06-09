@@ -18,4 +18,14 @@ The group serve as a master filter for the [Chart dashboard item](https://docs.d
 
 ![screenshot](/images/screenshot.png)
 
+## Documentation
 
+- [Binding to Data](https://docs.devexpress.com/Dashboard/116771) 
+- [Dashboard Items](https://docs.devexpress.com/Dashboard/116521)
+- [Dashboard Layout](https://docs.devexpress.com/Dashboard/15617)
+- [WinForms Viewer](https://docs.devexpress.com/Dashboard/117122)
+
+## More Examples
+
+- [How to bind a Range Filter dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-range-filter-dashboard-item-to-data-in-code-e4773)
+- [How to bind a Date Filter dashboard item to data in code](https://github.com/DevExpress-Examples/winforms-dashboard-create-datefilterdashboarditem)
