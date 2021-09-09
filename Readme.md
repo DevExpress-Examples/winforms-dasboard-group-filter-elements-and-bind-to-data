@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T191632)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 
-# How to Group Filter Elements and Bind to Data at Runtime
+# Dashboard for WinForms - How to group Filter Elements and bind to data at runtime
 
 This example demonstrates how to combine [filter elements](https://docs.devexpress.com/Dashboard/17659) in a [group](https://docs.devexpress.com/Dashboard/1758) and [bind them to data](https://docs.devexpress.com/Dashboard/17660) in code.
 
