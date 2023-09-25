@@ -2,13 +2,15 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T191632)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 
-# Dashboard for WinForms - How to group Filter Elements and bind to data at runtime
+# Dashboard for WinForms - How to Group Filter Elements and Bind to Data at Runtime
 
 This example demonstrates how to combine [filter elements](https://docs.devexpress.com/Dashboard/17659) in a [group](https://docs.devexpress.com/Dashboard/1758) and [bind them to data](https://docs.devexpress.com/Dashboard/17660) in code.
 
-## Files to Look At
+## Files to Review
 
 * [Form1.cs](./CS/Dashboard_FilterElements_and_Groups/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_FilterElements_and_Groups/Form1.vb))
+
+## Example Overview
 
 The dashboard contains the following filter items combined in a group:
 
