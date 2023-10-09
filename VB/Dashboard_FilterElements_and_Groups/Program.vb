@@ -1,20 +1,20 @@
-﻿Imports System
-Imports System.Collections.Generic
-Imports System.Linq
+Imports System
 Imports System.Windows.Forms
 Imports DevExpress.Skins
 
 Namespace Dashboard_FilterElements_and_Groups
-	Friend Module Program
-		''' <summary>
-		''' The main entry point for the application.
-		''' </summary>
-		<STAThread>
-		Sub Main()
-			SkinManager.EnableFormSkins()
-			Application.EnableVisualStyles()
-			Application.SetCompatibleTextRenderingDefault(False)
-			Application.Run(New Form1())
-		End Sub
-	End Module
+
+    Friend Module Program
+
+        ''' <summary>
+        ''' The main entry point for the application.
+        ''' </summary>
+        <STAThread>
+        Sub Main()
+            Call SkinManager.EnableFormSkins()
+            Call Application.EnableVisualStyles()
+            Application.SetCompatibleTextRenderingDefault(False)
+            Call Application.Run(New Form1())
+        End Sub
+    End Module
 End Namespace
