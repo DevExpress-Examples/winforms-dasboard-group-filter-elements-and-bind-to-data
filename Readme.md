@@ -37,7 +37,7 @@ The group serve as a master filter for the [Chart dashboard item](https://docs.d
 - [How to bind a Range Filter dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-range-filter-dashboard-item-to-data-in-code-e4773)
 - [How to bind a Date Filter dashboard item to data in code](https://github.com/DevExpress-Examples/winforms-dashboard-create-datefilterdashboarditem)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dasboard-group-filter-elements-and-bind-to-data&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dasboard-group-filter-elements-and-bind-to-data&~~~was_helpful=no)
 
